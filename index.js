@@ -1,8 +1,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const utils = require('utils');
-
-const questions = [];
+const util = require('util');
+const generateMarkdown = require("./util/generateMarkdown");
+const questions = require("./util/questions").questions;
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
