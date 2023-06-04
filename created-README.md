@@ -1,13 +1,12 @@
-function generateMarkdown(data) {
-  return `
+
   
-# ${data.title}
+# Read-Me-2-Times
 
-  ${data.description}
+   Professional README generator
 
-  ${data.licenseBadge}
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-  [A deployed version can be viewed here.](${data.URL})
+  [A deployed version can be viewed here.](https://github.com/Neta2393/Read-Me-2-Times)
   
 ---
 ## Contents
@@ -26,7 +25,7 @@ function generateMarkdown(data) {
 ---
 ## About
 
-  ${data.about}
+  This project is creating a README using the command line
 
 ---
 
@@ -46,16 +45,16 @@ function generateMarkdown(data) {
 ---
 
 ## Installation:
-  ${data.installation}
+   Clone the repo, Run npm install inquirer@8.2.4 in the command line, Write code, Run node index.js
 
   To clone the repo:
   
-      git clone ${data.clone}
+      git clone  https://github.com/Neta2393/Read-Me-2-Times.git
   
 ---
 
 ## License
-  License used for this project - ${data.license}
+  License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
@@ -77,20 +76,16 @@ function generateMarkdown(data) {
 ---
 
 ## Tests:
-  ${data.test}
+   ran node index.js to see if there were any bugs that stopped the code from working
 
 ---
 
 ## Authors and Acknowledgments
-  ${data.author}
+  Benethea Hardin
 
 ---
 
 ## Contact Information:
-* GitHub Username: ${data.userName}
-* GitHub Email: ${data.userEmail}
+* GitHub Username:  Neta2393
+* GitHub Email:  benetheahardin@yahoo.com
   
-`;
-}
-
-module.exports = generateMarkdown;
