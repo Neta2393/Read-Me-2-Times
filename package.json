@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "read-me-2-times",
+  "description": "Professional README generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neta2393/Read-Me-2-Times.git"
+  },
+  "keywords": [
+    "README\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DGenerated",
+    "README"
+  ],
+  "author": "Neta2393 (Benethea Hardin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neta2393/Read-Me-2-Times/issues"
+  },
+  "homepage": "https://github.com/Neta2393/Read-Me-2-Times#readme" 
+}
