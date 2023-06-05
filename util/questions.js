@@ -1,4 +1,4 @@
-// array of questions for user
+// The below lines of code are the array of questions the user will be asked when they type node index.js in the command line. The type shows whether the user will manually input their desired text or will select from a list of choices. The message is the question that will be asked to the user.
 const questions = [
     {
       type: "input",
