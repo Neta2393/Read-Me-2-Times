@@ -4,7 +4,6 @@ const util = require('util');
 const generateMarkdown = require('./util/generateMarkdown');
 const licenseBadge = require('./util/licenseBadge').licenseBadge;
 const questions = require('./util/questions').questions;
-const choices = require('./util/questions').choices;
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
