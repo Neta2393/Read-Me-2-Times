@@ -1,10 +1,8 @@
+# Read-me-2-times
 
-  
-# Read-Me-2-Times
+  Professional README Generator
 
-   Professional README Generator
-
-  undefined
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   [A deployed version can be viewed here.]( https://github.com/Neta2393/Read-Me-2-Times)
   
@@ -25,7 +23,8 @@
 ---
 ## About
 
-  
+  This project creates a professional README.md file using the command line
+
 ---
 
 ## User Story
@@ -39,16 +38,16 @@
 ---
 ## Visuals:
 
-  ![]()
+  ![img]()
 
 ---
 
 ## Installation:
-  undefined
+  clone Repo locally, run npm install inquirer@8.2.4, write code and create files, run node index.js
 
   To clone the repo:
   
-      git clone undefined
+      git clone https://github.com/Neta2393/Read-Me-2-Times.git
   
 ---
 
@@ -75,7 +74,7 @@
 ---
 
 ## Tests:
-  npm run test, ran node index.js
+  npm run test and ran node index.js
 
 ---
 
@@ -87,4 +86,6 @@
 ## Contact Information:
 * GitHub Username: Neta2393
 * GitHub Email: benetheahardin@yahoo.com
+  
+
   

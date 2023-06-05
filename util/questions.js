@@ -41,8 +41,8 @@ const questions = [
     },
     {
       type: "input",
-      message: "Please enter any testing protocols you used for your project?",
       name: "test",
+      message: "Please enter any testing protocols you used for your project?",
     },
     {
       type: "input",
