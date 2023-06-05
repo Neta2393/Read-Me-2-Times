@@ -23,7 +23,7 @@ const questions = [
     {
       type: "input",
       message: "What is link to clone your repo locally?",
-      name: "clone",
+      name: "clonelink",
     },
     {
       type: "list",
