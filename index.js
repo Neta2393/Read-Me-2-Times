@@ -4,10 +4,11 @@ const util = require('util');
 const generateMarkdown = require('./util/generateMarkdown');
 const licenseBadge = require('./util/licenseBadge').licenseBadge;
 const questions = require('./util/questions').questions;
+const choices = require('./util/questions').choices;
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// function to initialize program and create README file
+// The below lines of code is the functions that writes the new README
 async function init() {
   try {
     const answers = await inquirer.prompt(questions);
