@@ -1,12 +1,12 @@
 
   
-# Read-Me-2-Times
+# Read-me-2-times
 
   Professional README Generator
 
-  undefined
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
-  [A deployed version can be viewed here.](https://github.com/Neta2393/Read-Me-2-Times)
+  [A deployed version can be viewed here.]( https://github.com/Neta2393/Read-Me-2-Times)
   
 ---
 ## Contents
@@ -25,7 +25,7 @@
 ---
 ## About
 
-  Creating a professional README file using the command line
+  This project creates a professional README.md file using the command line
 
 ---
 
@@ -45,7 +45,7 @@
 ---
 
 ## Installation:
-  clone the repo locally, npm install inquirer@8.2.4, write code, run node index.js 
+  clone Repo locally, run npm install inquirer@8.2.4, write code and create files, run node index.js
 
   To clone the repo:
   
@@ -54,7 +54,7 @@
 ---
 
 ## License
-  License used for this project - Boost
+  License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
@@ -76,7 +76,7 @@
 ---
 
 ## Tests:
-  npm run test, ran node index.js
+  npm run test and ran node index.js
 
 ---
 

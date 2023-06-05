@@ -3,26 +3,26 @@ const questions = [
     {
       type: "input",
       name: "title",
-      message: "What is the title of your project?",
+      message: "What is your project title?",
     },
     {
       type: "input",
-      message: "Please enter a one-sentence description of your project:",
+      message: "Please describe your project using one sentence:",
       name: "description",
     },
     {
       type: "input",
-      message: "Please tell us about your project:",
+      message: "Please explain your project and its functions:",
       name: "about",
     },
     {
       type: "input",
-      message: "What are the installation instructions for your project?",
+      message: "How did you install your project in 3 or more steps?",
       name: "installation",
     },
     {
       type: "input",
-      message: "What is the link to clone the repo?",
+      message: "What is link to clone your repo locally?",
       name: "clone",
     },
     {
@@ -60,9 +60,9 @@ const questions = [
       message: "What is your email?",
     },
     {
-      type: "input",
-      name: "URL",
-      message: "What is the URL of the live site?",
+     type: "input",
+     name: "URL",
+     message: "What is the URL for the live site?",
     },
     {
       type: "input",
