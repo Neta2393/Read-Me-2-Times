@@ -13,12 +13,12 @@ const questions = [
     {
       type: "input",
       message: "Please explain your project and its functions:",
-      name: "about",
+      name: "function",
     },
     {
       type: "input",
       message: "How did you install your project in 3 or more steps?",
-      name: "installation",
+      name: "install",
     },
     {
       type: "input",
