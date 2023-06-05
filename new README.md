@@ -4,7 +4,7 @@
 
   Professional README Generator
 
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   [A deployed version can be viewed here.]( https://github.com/Neta2393/Read-Me-2-Times)
   

@@ -1,6 +1,6 @@
 
   
-# Read-Me-2-Times
+# read-me-2-times
 
   Professional README Generator
 
@@ -25,7 +25,7 @@
 ---
 ## About
 
-  Creating a professional README file using the command line
+  undefined
 
 ---
 
@@ -45,16 +45,16 @@
 ---
 
 ## Installation:
-  clone the repo locally, npm install inquirer@8.2.4, write code, run node index.js 
+  undefined
 
   To clone the repo:
   
-      git clone https://github.com/Neta2393/Read-Me-2-Times.git
+      git clone undefined
   
 ---
 
 ## License
-  License used for this project - Boost
+  License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
