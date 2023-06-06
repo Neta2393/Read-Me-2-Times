@@ -4,7 +4,7 @@
 
   Professional README generator
 
-  undefined
+  
 
   [A deployed version can be viewed here.](https://github.com/Neta2393/Read-Me-2-Times)
   
@@ -25,7 +25,7 @@
 ---
 ## About
 
-  undefined
+  
 
 ---
 
