@@ -65,6 +65,9 @@ THEN I am taken to the corresponding section of the README
 ![2023-06-05 (2)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/c17afce6-f562-47dc-86ff-56edec4acbfe)
 ![2023-06-05 (3)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/cec7e65b-5539-4990-b40d-d17141a0c730)
 
+![Read-Me-2-Times.webm](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/bc467f86-82cf-4377-9d39-0d90cf891557)
+
+
 ---
 
 ## Installation:
