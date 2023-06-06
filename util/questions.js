@@ -69,8 +69,6 @@ const questions = [
       name: "repo",
       message: "What is the URL of the github repo?",
     },
-  ];
+  ]
   
-  modules.exports = {
-    questions: questions 
-  }
+   modules.exports = questions;

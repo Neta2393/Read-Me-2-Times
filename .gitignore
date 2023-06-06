@@ -1,2 +1,3 @@
 node_modules
 .DS_Store/
+# Ignored the files above so they only show in the working tree and not in my github repo. I am aware that DS store in a Mac thing but i wanted to practice inputting more than one thing into gitignore and seeing how the files looked when not ignored and ignored. 
