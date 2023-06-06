@@ -40,16 +40,19 @@
 ---
 ## Visuals:
 
-  ![]()
+ ![2023-06-05](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/82e877d9-e52d-4ffa-a73c-3730e1607da0)
+
+![2023-06-05 (2)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/c17afce6-f562-47dc-86ff-56edec4acbfe)
+![2023-06-05 (3)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/cec7e65b-5539-4990-b40d-d17141a0c730)
 
 ---
 
 ## Installation:
-  undefined
+
 
   To clone the repo:
   
-      git clone undefined
+      git clone https://github.com/Neta2393/Read-Me-2-Times.git
   
 ---
 
