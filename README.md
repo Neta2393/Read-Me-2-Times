@@ -1,12 +1,21 @@
 
   
 # Read-Me-2-Times
+<<<<<<< HEAD
 
   Professional README generator
 
   
 
   [A deployed version can be viewed here.](https://github.com/Neta2393/Read-Me-2-Times)
+=======
+
+  
+
+  
+
+  [A deployed version can be viewed here.]()
+>>>>>>> 80f3ca3de7f1942b70abb6463f53ee235fd720b1
   
 ---
 ## Contents
