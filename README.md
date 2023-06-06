@@ -2,11 +2,13 @@
   
 # Read-Me-2-Times
 
-  
+  The newly generated README file is located in newREADME.md file.
+  The images for this README are located within this README file.
 
   
 
   [A deployed version can be viewed here.]()
+
   
 ---
 ## Contents
@@ -14,14 +16,14 @@
 1. [About](#about)
     1. [User Story](#user%20story)
     2. [Acceptance criteria](#acceptance%20criteria)
-    3. [Visuals](#visuals)
+    3. [Images](#images)
     4. [Build](#build)
 2. [Installation](#installation)
 3. [License](#license)
 4. [Contributing](#contributing)
 5. [Tests](#tests)
 6. [Developement](#developement)
-6. [Authors and acknowledgment](#authors%20and%20acknowledgment)
+7. [Authors and acknowledgment](#authors%20and%20acknowledgment)
 
 ---
 ## About
@@ -66,7 +68,7 @@ THEN I am taken to the corresponding section of the README
 ---
 
 ## Installation:
-
+clone Repo locally, run npm install inquirer@8.2.4, write code and create files, run node index.js
 
   To clone the repo:
   
