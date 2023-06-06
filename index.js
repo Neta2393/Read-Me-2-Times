@@ -1,9 +1,9 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
-const generateMarkdown = require('./util/generateMarkdown');
-const licenseBadge = require('./util/licenseBadge').licenseBadge;
-const questions = require('./util/questions').questions;
+const generateMarkdown = require('./util/generateMarkdown.js');
+const licenseBadge = require('./util/licenseBadge.js').licenseBadge;
+const questions = require('./util/questions.js').questions;
 const writeFileAsync = util.promisify(fs.writeFile);
 
 // The below lines of code is the functions that writes the new README

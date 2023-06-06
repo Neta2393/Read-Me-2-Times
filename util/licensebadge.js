@@ -1,4 +1,3 @@
-
 function licenseBadge(value) {
     if (value === "GNU AGPLv3") {
       return "[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)";
@@ -20,3 +19,5 @@ function licenseBadge(value) {
  module.exports = {
     licenseBadge: licenseBadge,
   };
+
+  // The code above gives a value for each badge choice and ensures that the badge choice the user chooses in the command line populates the correct license and badge image.
