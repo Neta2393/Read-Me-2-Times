@@ -38,7 +38,7 @@
   
   
 ---
-## Visuals:
+## Images:
 
  ![2023-06-05](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/82e877d9-e52d-4ffa-a73c-3730e1607da0)
 
