@@ -1,12 +1,12 @@
 
   
-# 
+# Read-Me-2-Times
 
-  
+  Professional README generator
 
   undefined
 
-  [A deployed version can be viewed here.]()
+  [A deployed version can be viewed here.](https://github.com/Neta2393/Read-Me-2-Times)
   
 ---
 ## Contents
@@ -54,7 +54,7 @@
 ---
 
 ## License
-  License used for this project - GNU AGPLv3
+  License used for this project - MIT
   * For more information on license types, please reference this website
   for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
 
@@ -76,16 +76,16 @@
 ---
 
 ## Tests:
-  
+  ran npm test, ran node index.js to see if any code was broken and needed to be fixed
 
 ---
 
 ## Authors and Acknowledgments
-  
+  Benethea Hardin
 
 ---
 
 ## Contact Information:
-* GitHub Username: 
-* GitHub Email: 
+* GitHub Username: Neta2393
+* GitHub Email: benetheahardin@yahoo.com
   
