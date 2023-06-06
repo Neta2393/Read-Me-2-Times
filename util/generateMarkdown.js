@@ -95,4 +95,4 @@ function generateMarkdown(data) {
 
 module.exports = generateMarkdown;
 
-// The lines of code above give the desired layout for the README.md file that I am creating using the command line. It places all the desired items where they should go when then user is prompted to answer then questions. 
+// The lines of code above give the desired layout for the README.md file that I am creating using the command line. It places all the desired items where they should go when then user is prompted to answer the questions. I also made sure to place clickable links in the table of contents. I referred to previous challenges and lessons to ensure that I got a view of a consistent layout of a README file. 

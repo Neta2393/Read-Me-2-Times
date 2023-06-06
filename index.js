@@ -1,3 +1,4 @@
+// The lines of code below defines each variable
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
