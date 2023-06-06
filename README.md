@@ -38,7 +38,9 @@
 ---
 ## Visuals:
 
-  ![img]()
+  ![img]()![2023-06-05 (2)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/5731d62f-7b4a-4294-8873-f3778b582bcf)
+![img]()!
+![2023-06-05 (3)](https://github.com/Neta2393/Read-Me-2-Times/assets/128006949/2216fb31-790c-44ad-a0b5-47020cabd51b)
 
 ---
 
