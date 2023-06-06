@@ -100,6 +100,10 @@ THEN I am taken to the corresponding section of the README
 
 ---
 
+## Developement:
+  
+  When working on this challenge I found myself having to restart about 3 times and create an all new repo. I learned the importance of using node 16 for this challenge and also using the proper inquirer version. I used version 8.2.4 and I learned very quickly how important paying attention to the finite details was.
+
 ## Authors and Acknowledgments
   Benethea Hardin
 
